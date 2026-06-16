@@ -42,7 +42,7 @@ public class Roulette extends GameTable{
                 continue;
             }
 
-            // Custom Bet Validation Loop (Matching your Blackjack logic)
+            // Custom Bet Validation Loop 
             double currentBet = 0;
             boolean validBet = false;
 
